@@ -1,0 +1,12 @@
+Size
+  AST (frozen):            86.2 million parameters, 345 MB as 32-bit numbers
+  classifier on top:       3,244 parameters (810 inputs x 4 forms, plus 4 offsets)
+  start-up: loading AST 3.2 s, training the classifier 7.4 s
+
+One prediction, median over 5 validation pieces (median length 3.3 minutes), 14 CPU threads
+  prepare audio (ffmpeg)     2.59 s
+  AST, 3 clips               3.49 s
+  rhythm                     0.33 s
+  bass rhythm                0.33 s
+  classifier                 0.00 s
+  total                      6.74 s

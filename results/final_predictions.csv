@@ -1,0 +1,219 @@
+set,work_id,composer,title,instrumentation,form,predicted,p_fugue,p_march,p_nocturne,p_waltz,audio_path
+random test split,burgmuller-friedrich|waltz|valse-de-salon-sur-le-papillon,"Burgmuller, Friedrich",Valse de salon sur 'Le papillon',,waltz,waltz,0.045,0.351,0.010,0.595,audio/midi_render/34ca026a0e1598877419.flac
+random test split,liszt-franz|waltz|s430,"Liszt, Franz","Valse de concert, S.430",,waltz,waltz,0.029,0.003,0.377,0.592,audio/midi_render/6c6542fb2d3e07c130bf.flac
+random test split,wieniawski-jozef|waltz|op7,"Wieniawski, Jozef","Valse de salon, Op.7",,waltz,nocturne,0.033,0.008,0.502,0.456,audio/midi_render/a4e8ee7a16c80b31f3b6.flac
+random test split,scharwenka-xaver|waltz|op84,"Scharwenka, Xaver","Eglantine Waltz, Op.84",,waltz,waltz,0.026,0.047,0.329,0.598,audio/midi_render/4b1f1067cb5b97b8fc60.flac
+random test split,glazunov-alexander|waltz|op43,"Glazunov, Alexander","Valse de salon, Op.43",,waltz,waltz,0.004,0.084,0.041,0.871,audio/midi_render/5cf8d802b62c012d6b54.flac
+random test split,levitzki-mischa|waltz|op7,"Levitzki, Mischa","Valse-Tzigane, Op.7",,waltz,waltz,0.000,0.007,0.061,0.933,audio/midi_render/0c72d5c7e69a844aabea.flac
+random test split,wieniawski-jozef|waltz|op3,"Wieniawski, Jozef","Valse de concert No.1, Op.3",,waltz,waltz,0.009,0.079,0.188,0.724,audio/midi_render/53ce6560fab6cc788727.flac
+random test split,lafreniere-jean-baptiste|waltz|jannot-valse,"Lafreniere, Jean-Baptiste",Jannôt Valse,,waltz,march,0.190,0.562,0.021,0.228,audio/midi_render/3e68cf3c9f79b70176ce.flac
+random test split,wachs-paul|waltz|valse-interrompue,"Wachs, Paul",Valse interrompue,,waltz,march,0.001,0.716,0.165,0.119,audio/midi_render/c6c0c8df01a82ff0b7ae.flac
+random test split,joplin-scott|waltz|harmony-club-waltz,"Joplin, Scott",Harmony Club Waltz,,waltz,waltz,0.012,0.048,0.000,0.940,audio/midi_render/eca0d40ad1ca16cdc816.flac
+random test split,stolpe-antoni|waltz|bflatmajor,"Stolpe, Antoni",Waltz in B-flat major,,waltz,waltz,0.005,0.002,0.222,0.771,audio/midi_render/887f25f5d1c9ea7516f8.flac
+random test split,kammerer-carl|waltz|salon-walzer,"Kammerer, Carl",Salon-Walzer,,waltz,waltz,0.000,0.002,0.002,0.995,audio/midi_render/16a6c274a9674286163b.flac
+random test split,dorn-charles-james|waltz|evening-breezes-waltz,"Dorn, Charles James",Evening Breezes Waltz,,waltz,waltz,0.007,0.234,0.014,0.745,audio/midi_render/e1e8aeb8d4f1d04b9bb7.flac
+random test split,wieniawski-jozef|waltz|op18,"Wieniawski, Jozef","Souvenir d'une valse, Op.18",,waltz,nocturne,0.001,0.002,0.803,0.194,audio/midi_render/ed5430d18b72be36aebd.flac
+random test split,glazunov-alexander|waltz|op41,"Glazunov, Alexander","Grande valse de concert, Op.41",,waltz,nocturne,0.002,0.026,0.500,0.473,audio/midi_render/c433b12d1050dd9494f2.flac
+random test split,michalowski-aleksander|waltz|op29,"Michałowski, Aleksander","Valse mélancolique, Op.29",,waltz,waltz,0.266,0.003,0.280,0.451,audio/midi_render/4ec4ee82d6e1fa2bc7ea.flac
+random test split,ganne-louis|waltz|valse-des-baisers,"Ganne, Louis",Valse des baisers,,waltz,waltz,0.000,0.002,0.031,0.967,audio/midi_render/4e036d540d34eaf21854.flac
+random test split,cairos-rego-george-de|waltz|melba-waltz,"Cairos-Rego, George de",Melba Waltz,,waltz,waltz,0.003,0.310,0.010,0.677,audio/midi_render/318b900c9143772be7c1.flac
+random test split,massenet-jules|waltz|valse-tres-lente,"Massenet, Jules",Valse très lente,,waltz,nocturne,0.063,0.030,0.857,0.050,audio/midi_render/d44c17a42b7d23327428.flac
+random test split,albert-charles-d|waltz|pirates-penzance-waltz,"Albert, Charles d'",The Pirates of Penzance Waltz,,waltz,waltz,0.000,0.474,0.005,0.521,audio/midi_render/c49cd462d6eaaef20b3d.flac
+random test split,fetras-oscar|waltz|op158,"Fetras, Oscar","Gavotte-Walzer, Op.158",,waltz,waltz,0.000,0.001,0.002,0.997,audio/midi_render/e41f9ead9e369f456937.flac
+random test split,lamothe-georges|waltz|exposition-valse,"Lamothe, Georges",Exposition-valse,,waltz,waltz,0.000,0.062,0.001,0.937,audio/midi_render/0d0112abd75149c1d426.flac
+random test split,liszt-franz|waltz|s514,"Liszt, Franz","Mephisto Waltz No.1, S.514",,waltz,nocturne,0.000,0.011,0.783,0.206,audio/midi_render/be4ef55dc20050a913ae.flac
+random test split,czibulka-alphons|waltz|op390,"Czibulka, Alphons","An Dich! Valse Serenade, Op.390",,waltz,waltz,0.006,0.010,0.010,0.975,audio/midi_render/5b1b1e93dabc2401f61a.flac
+random test split,scriabin-alexander|waltz|gsharpminor,"Scriabin, Alexander",Waltz in G-sharp minor,,waltz,waltz,0.012,0.022,0.421,0.545,audio/midi_render/1f9e35fa2ccf9e64475a.flac
+random test split,johnson-charles-leslie|waltz|wedding-fairies-waltz,"Johnson, Charles Leslie",Wedding of the Fairies Waltz,,waltz,waltz,0.002,0.023,0.002,0.973,audio/midi_render/1d7ccb61a6611c123b00.flac
+random test split,michalowski-aleksander|waltz|op13,"Michałowski, Aleksander","Valse brillante, Op.13",,waltz,waltz,0.032,0.029,0.001,0.938,audio/midi_render/d9ef06a6ac769f181609.flac
+random test split,bartel-gunther|waltz|op40,"Bartel, Gunther","Valse lente, Op.40",,waltz,waltz,0.003,0.003,0.034,0.959,audio/midi_render/431aec4f8b3968ad48d9.flac
+random test split,fetras-oscar|waltz|op214,"Fetras, Oscar","Swanilda-Walzer, Op.214",,waltz,waltz,0.000,0.006,0.152,0.842,audio/midi_render/31dde82dad93e887562b.flac
+random test split,kalkbrenner-friedrich-wilhelm|nocturne|op95,"Kalkbrenner, Friedrich Wilhelm","Nocturne, Op.95",,nocturne,nocturne,0.021,0.008,0.933,0.038,audio/midi_render/4c18adc0956f15975ccf.flac
+random test split,faure-gabriel|nocturne|op119,"Faure, Gabriel","Nocturne No.13, Op.119",,nocturne,nocturne,0.010,0.039,0.903,0.047,audio/midi_render/f1b5aedc6e390521bb97.flac
+random test split,sgambati-giovanni|nocturne|op31,"Sgambati, Giovanni","Nocturne, Op.31",,nocturne,nocturne,0.001,0.002,0.834,0.164,audio/midi_render/c805e097a859538e18e6.flac
+random test split,faure-gabriel|nocturne|op107,"Faure, Gabriel","Nocturne No.12, Op.107",,nocturne,nocturne,0.150,0.017,0.513,0.321,audio/midi_render/15c56118518eaac7461c.flac
+random test split,faure-gabriel|nocturne|op74,"Faure, Gabriel","Nocturne No.7, Op.74",,nocturne,nocturne,0.010,0.003,0.631,0.356,audio/midi_render/73f39edc3642d8d3dda5.flac
+random test split,lourie-arthur|nocturne|nocturne,"Lourie, Arthur",Nocturne,,nocturne,march,0.136,0.583,0.005,0.276,audio/midi_render/0e0165ffb839ece8703b.flac
+random test split,haslinger-carl|nocturne|op31,"Haslinger, Carl","Thème varié en nocturne, Op.31",,nocturne,nocturne,0.001,0.261,0.470,0.268,audio/midi_render/0c24ebae4dfe86736b4e.flac
+random test split,henselt-adolf|nocturne|op32,"Henselt, Adolf","Nocturne, Op.32",,nocturne,waltz,0.099,0.033,0.059,0.809,audio/midi_render/de8f1cb52e60c9e8fc22.flac
+random test split,alkan-charles-valentin|nocturne|op60b,"Alkan, Charles-Valentin","Nocturne 'Le Grillon', Op.60bis",,nocturne,waltz,0.076,0.049,0.082,0.792,audio/midi_render/63be7f8c739441b69cfc.flac
+random test split,lavignac-albert|nocturne|nocturne,"Lavignac, Albert",Nocturne,,nocturne,march,0.004,0.953,0.000,0.042,audio/midi_render/019673940c7a49128f47.flac
+random test split,zimay-laszlo|nocturne|op39,"Zimay, Laszlo","Notturno, Op.39",,nocturne,nocturne,0.002,0.003,0.947,0.048,audio/midi_render/95f06e8a83eb5be9ac5b.flac
+random test split,leschetizky-theodor|nocturne|op12,"Leschetizky, Theodor","Nocturne No.2, Op.12",,nocturne,nocturne,0.009,0.002,0.733,0.257,audio/midi_render/a8ebfd93002fb7565949.flac
+random test split,trevizan-lucas|nocturne|notturno,"Trevizan, Lucas",Notturno,,nocturne,march,0.483,0.505,0.010,0.002,audio/midi_render/973d3304929f7b34e6de.flac
+random test split,alain-albert|nocturne|nocturne,"Alain, Albert",Nocturne,,nocturne,waltz,0.336,0.021,0.155,0.488,audio/midi_render/a54d9dcc09cd31f61cf2.flac
+random test split,gutmann-adolf|nocturne|op20,"Gutmann, Adolf","Nocturne No.7, Op.20",,nocturne,nocturne,0.001,0.058,0.729,0.212,audio/midi_render/816b335c48bfa33068c8.flac
+random test split,teilman-christian|march|vikingens-festmarsch,"Teilman, Christian",Vikingens Festmarsch,,march,march,0.131,0.852,0.000,0.018,audio/midi_render/a5f38e82cc461c68177e.flac
+random test split,john-charles|march|op55,"John, Charles","Marche, Op.55",,march,waltz,0.006,0.351,0.000,0.643,audio/midi_render/78c56084cf08099886d6.flac
+random test split,friedemann-carl|march|kaiser-friedrich-marsch,"Friedemann, Carl",Kaiser Friedrich Marsch,,march,march,0.002,0.915,0.007,0.075,audio/midi_render/9d94bd62cca3c42e02c8.flac
+random test split,kempinski-leo-a|march|burlesque-on-verdi-s-march,"Kempinski, Leo A.",Burlesque on Verdi's 'March',,march,waltz,0.015,0.018,0.001,0.966,audio/midi_render/36691822228b68553758.flac
+random test split,liszt-franz|march|s450,"Liszt, Franz","Feierlicher Marsch zum heiligen Gral aus Parsifal, S.450",,march,nocturne,0.017,0.079,0.885,0.019,audio/midi_render/439449d57cf0c5317f45.flac
+random test split,mack-edward|march|general-rosecrans-grand-march,"Mack, Edward",General Rosecrans' Grand March,,march,march,0.001,0.977,0.000,0.022,audio/midi_render/ee4eca84b88adc548ab1.flac
+random test split,cramer-johann-baptist|march|eflatmajor,"Cramer, Johann Baptist",Grand March in E-flat major,,march,nocturne,0.040,0.032,0.802,0.126,audio/midi_render/2502647fc9686ee57aca.flac
+random test split,schubert-franz|march|d606,"Schubert, Franz","March in E major, D.606",,march,march,0.001,0.838,0.000,0.161,audio/midi_render/d2fe350c485289a40e62.flac
+random test split,bach-johann-sebastian|fugue|bwv960,"Bach, Johann Sebastian","Fugue in E minor, BWV 960",,fugue,fugue,0.990,0.004,0.000,0.006,audio/midi_render/978b9287a03a74da4d21.flac
+random test split,mozart-wolfgang-amadeus|fugue|eminor,"Mozart, Wolfgang Amadeus","Fugue in E minor, K.deest",,fugue,fugue,0.971,0.001,0.001,0.027,audio/midi_render/936b30a4bee9a4325418.flac
+random test split,homilius-gottfried-august|fugue|gmajor,"Homilius, Gottfried August",Fugue in G major,,fugue,fugue,0.796,0.001,0.007,0.196,audio/midi_render/be6c82dfd4996b34cbb3.flac
+random test split,manfredini-vincenzo|fugue|gmajor,"Manfredini, Vincenzo",Fuga in G major,,fugue,fugue,0.706,0.001,0.016,0.278,audio/midi_render/7a542859b5c2a1717f74.flac
+random test split,handel-george-frideric|fugue|aminor,"Handel, George Frideric","Fugue in A minor, HWV 609",,fugue,fugue,0.601,0.052,0.217,0.130,audio/midi_render/1822a6e9b2c3ec875eee.flac
+random test split,handel-george-frideric|fugue|bflatmajor,"Handel, George Frideric","Fugue in B-flat major, HWV 607",,fugue,fugue,0.999,0.001,0.000,0.000,audio/midi_render/fb602470096d66519db9.flac
+real recordings,ivanovici-iosif|waltz|danube-waves-waltz,"Ivanovici, Iosif",Danube waves waltz,orchestra,waltz,waltz,0.001,0.348,0.000,0.651,audio/real/f1e13ce45f2a88e18f47.flac
+real recordings,waldteufel-emile|waltz|tout-paris-waltz,"Waldteufel, Emile",Tout Paris waltz,band,waltz,march,0.010,0.966,0.001,0.023,audio/real/7ddac1a23891323a438a.flac
+real recordings,meyerbeer-giacomo|waltz|just-nivette-giacomo-robert-le-diable-valse-infernale-odeon-,"Meyerbeer, Giacomo",Just Nivette Giacomo Meyerbeer Robert Le Diable Valse Infernale Odéon 60652 Enregistré En 1908,unknown,waltz,march,0.491,0.508,0.001,0.000,audio/real/e1cb2e6d3c7a1d69f690.flac
+real recordings,strauss-josef|waltz|village-swallows-waltz,"Strauss, Josef",Village swallows waltz,orchestra,waltz,waltz,0.000,0.000,0.006,0.994,audio/real/faa20728e9bd18396815.flac
+real recordings,chopin-frederic|waltz|op64n2,"Chopin, Frederic",Chopin - Waltz in C-sharp Op-64 No-2 (Piano Performance by eldüendesüarez),piano,waltz,waltz,0.064,0.004,0.267,0.665,audio/real/61498d1d764e9b7ac7bd.flac
+real recordings,sibelius-jean|waltz|judith-bokor-plays-valse-triste-by,"Sibelius, Jean",Judith Bokor plays Valse triste by Sibelius,unknown,waltz,waltz,0.000,0.000,0.096,0.904,audio/real/6a6925e2c066b49e0cff.flac
+real recordings,gounod-charles|waltz|rom-o-et-juliette-valse,"Gounod, Charles",Rom�o et Juliette valse,unknown,waltz,march,0.147,0.783,0.000,0.070,audio/real/82bf2758fd00771699b8.flac
+real recordings,weber-carl-maria-von|waltz|invitation-to-waltz,"Weber, Carl Maria von",Invitation to the waltz,band,waltz,waltz,0.004,0.124,0.002,0.870,audio/real/ee76aeed7854b0981a09.flac
+real recordings,kalman-emmerich|waltz|hesitation-waltz,"Kalman, Emmerich",Hesitation waltz,band,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/98d86ac3493f3a8129e8.flac
+real recordings,lehar-franz|waltz|merry-widow-waltz-paso-doble,"Lehar, Franz","Merry widow waltz, Paso doble",orchestra,waltz,waltz,0.007,0.282,0.179,0.532,audio/real/727a433c8372531c53a4.flac
+real recordings,czibulka-alphons|waltz|nightingale-waltz,"Czibulka, Alphons",Nightingale waltz,orchestra,waltz,waltz,0.000,0.065,0.000,0.935,audio/real/9ee53119c4e92e6be3bd.flac
+real recordings,wieniawski-henryk|waltz|capriccio-valse,"Wieniawski, Henryk",Capriccio Valse,unknown,waltz,waltz,0.000,0.000,0.023,0.977,audio/real/44ea1de26be69edf2ede.flac
+real recordings,hummel-johann-nepomuk|waltz|walzer,"Hummel, Johann Nepomuk",Walzer,unknown,waltz,waltz,0.000,0.019,0.078,0.903,audio/real/4007c01af9bfb72f735c.flac
+real recordings,strauss-johann|waltz|artist-s-life-waltz,"Strauss, Johann",Artist's life waltz,orchestra,waltz,waltz,0.000,0.002,0.000,0.998,audio/real/e3517433fbca0e27c1a9.flac
+real recordings,arensky-anton|waltz|waltz,"Arensky, Anton",Waltz,unknown,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/07970d127874c0774da2.flac
+real recordings,ziehrer-carl-michael|waltz|waltz-lesson,"Ziehrer, Carl Michael",The waltz lesson (That's the waltz for me),unknown,waltz,waltz,0.215,0.065,0.315,0.405,audio/real/ab0b1719d978920ffcaa.flac
+real recordings,komzak-karel|waltz|bad-ner-mad-l-n-waltz,"Komzak, Karel",Bad'ner Mad'l'n waltz,orchestra,waltz,waltz,0.001,0.320,0.000,0.679,audio/real/ea192f8bd5791e90f4a6.flac
+real recordings,liszt-franz|waltz|no1,"Liszt, Franz",Liszt - Mephisto Waltz No.1,unknown,waltz,nocturne,0.000,0.002,0.979,0.019,audio/real/dbb7ac891fe761b1100b.flac
+real recordings,delibes-leo|waltz|entr-acte-et-valse,"Delibes, Leo",Entr' acte et valse,band,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/a60f877d6f864ffc0f95.flac
+real recordings,tchaikovsky-pyotr|waltz|sleeping-beauty-waltz,"Tchaikovsky, Pyotr",Sleeping beauty : Waltz,orchestra,waltz,waltz,0.000,0.046,0.005,0.949,audio/real/2c798baa60edbda90f7a.flac
+real recordings,joplin-scott|waltz|scott-augustan-club-waltz,"Joplin, Scott",Scott Joplin - Augustan Club Waltz (1901),piano,waltz,waltz,0.004,0.163,0.023,0.810,audio/real/eb7b2644371a1808db35.flac
+real recordings,ravel-maurice|waltz|s-la-valse-two-pianos-m-72a-o-doan-o-doan,"Ravel, Maurice","Ravel's La Valse for two pianos, M. 72a - O'Doan & O'Doan",piano,waltz,nocturne,0.005,0.003,0.781,0.211,audio/real/45a9eb8de7511219b7e9.flac
+real recordings,brahms-johannes|waltz|op39n15,"Brahms, Johannes",Brahms - Waltz in A-flat Op-39 No-15 (Piano Performance by eldüendesüarez),piano,waltz,waltz,0.002,0.005,0.064,0.929,audio/real/f66aa26c6464dabbd805.flac
+real recordings,gottschalk-louis-moreau|waltz|teresa-carreno-waltz,"Gottschalk, Louis Moreau",Teresa Carreño - Gottschalk Waltz,unknown,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/e907ff82d5084700b045.flac
+real recordings,waldteufel-emile|waltz|valse-militaire,"Waldteufel, Emile",Valse militaire,band,waltz,fugue,0.613,0.192,0.020,0.174,audio/real/e4c055cdeffe22cb7b38.flac
+real recordings,meyerbeer-giacomo|waltz|just-nivette-giacomo-robertle-diable-valse-infernale-odeonbr,"Meyerbeer, Giacomo","Just Nivette, Giacomo Meyerbeer, Robertle Diable, Valse Infernale, Odéonbrun 60652",unknown,waltz,march,0.336,0.657,0.007,0.000,audio/real/3aae728c8f8271c614e6.flac
+real recordings,chopin-frederic|waltz|op64n1,"Chopin, Frederic",Chopin - Waltz in D-flat Op-64 No-1 (Minute) (Piano Performance by eldüendesüarez),piano,waltz,waltz,0.001,0.000,0.428,0.571,audio/real/de630227f1252d62de8d.flac
+real recordings,sibelius-jean|waltz|valse-triste,"Sibelius, Jean",Valse triste,orchestra,waltz,waltz,0.000,0.001,0.167,0.832,audio/real/9cb57547a83c7d7ad93b.flac
+real recordings,gounod-charles|waltz|gabrielle-ritterciampi-charles-romeo-et-juliette-valse-pathe,"Gounod, Charles",Gabrielle RitterCiampi Charles Gounod Roméo Et Juliette Valse Pathé Saphir 0393 Enregistrement En 1923,unknown,waltz,march,0.003,0.993,0.001,0.004,audio/real/b02f637c44fe5bc87481.flac
+real recordings,lehar-franz|waltz|merry-widow-waltz-burlesque,"Lehar, Franz",Merry widow waltz : Burlesque,band,waltz,waltz,0.000,0.322,0.000,0.678,audio/real/7e11357e417281d99315.flac
+real recordings,strauss-johann|waltz|blue-danube-waltz-der-schonen-blauen-donau-tah-keinata-too-t,"Strauss, Johann","Blue Danube waltz, An der Schönen Blauen Donau, Tah keinata too toonavaos (Τα κύματα του Δουνάβεως), Danubio azul (Vals)",band,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/eba7f1d1364745ff7395.flac
+real recordings,ziehrer-carl-michael|waltz|vienna-beauties-waltz,"Ziehrer, Carl Michael",Vienna beauties waltz,band,waltz,waltz,0.011,0.305,0.000,0.685,audio/real/375d628ca6c0aad670e9.flac
+real recordings,liszt-franz|waltz|mephisto-waltz,"Liszt, Franz",Liszt- Mephisto Waltz,unknown,waltz,nocturne,0.000,0.000,0.502,0.498,audio/real/a9ad087d976947e0d34c.flac
+real recordings,delibes-leo|waltz|valse-lento,"Delibes, Leo",Valse lento,orchestra,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/5adae921d8e6fbd3e314.flac
+real recordings,tchaikovsky-pyotr|waltz|flower-waltz,"Tchaikovsky, Pyotr",Flower waltz,orchestra,waltz,waltz,0.000,0.000,0.000,1.000,audio/real/60350cbbb0ccef3475f5.flac
+real recordings,joplin-scott|waltz|scott-harmony-club-waltz,"Joplin, Scott",Scott Joplin - Harmony Club Waltz (1896),piano,waltz,waltz,0.039,0.355,0.001,0.605,audio/real/a5ce41af1c948c105e79.flac
+real recordings,waldteufel-emile|waltz|skaters-waltz-los-patinadores-vals,"Waldteufel, Emile","Skaters' waltz, Los patinadores vals",band,waltz,march,0.004,0.859,0.000,0.136,audio/real/92797ccd0942cf23c65e.flac
+real recordings,meyerbeer-giacomo|waltz|valse-infernale,"Meyerbeer, Giacomo",Valse infernale,orchestra,waltz,nocturne,0.251,0.000,0.421,0.327,audio/real/b0073df8b50d37f26cf3.flac
+real recordings,chopin-frederic|waltz|op10n8,"Chopin, Frederic","Chopin - Étude in F major, Op. 10, No. 8, and Waltz in E minor, Op. posth. (Gimpel)",unknown,waltz,waltz,0.000,0.048,0.466,0.486,audio/real/78e15a8927fbae32b6e0.flac
+real recordings,gounod-charles|waltz|faust-waltz-from-kermesse-scene,"Gounod, Charles",Faust : waltz from Kermesse scene,band,waltz,waltz,0.019,0.474,0.002,0.505,audio/real/4c03e26a92282a512194.flac
+real recordings,grieg-edvard|nocturne|op54n4,"Grieg, Edvard","Grieg Notturno Op 54 No 4 performed live by Mark Gasser, 2009",unknown,nocturne,nocturne,0.000,0.000,0.999,0.000,audio/real/a20c0df521a8d6d722d5.flac
+real recordings,mendelssohn-felix|nocturne|op61,"Mendelssohn, Felix","A Midsummer Night's Dream, Op. 61 - Nocturne",unknown,nocturne,nocturne,0.000,0.017,0.982,0.001,audio/real/ea1d78c8ce115e7065dc.flac
+real recordings,chopin-frederic|nocturne|op62n1,"Chopin, Frederic","Frederic Chopin - nocturne no. 1 in b major, op. 62",unknown,nocturne,nocturne,0.000,0.000,0.994,0.006,audio/real/7cf9e603ee91fcb153fb.flac
+real recordings,chopin-frederic|nocturne|op62n2,"Chopin, Frederic",Chopin - Nocturne in E Op-62 No-2 (Piano Performance by eldüendesüarez),piano,nocturne,nocturne,0.065,0.001,0.859,0.075,audio/real/999f2d03de4bcb8ad023.flac
+real recordings,chopin-frederic|nocturne|op9n1,"Chopin, Frederic","Chopin, Nocturne No. 1 in B Flat Minor, Op. 9",unknown,nocturne,nocturne,0.000,0.000,0.996,0.004,audio/real/12a5b9f7771b735c1f70.flac
+real recordings,chopin-frederic|nocturne|op72n1,"Chopin, Frederic","Chopin Nocturne in Em, Op. posth. 72",unknown,nocturne,nocturne,0.000,0.005,0.945,0.050,audio/real/83e395ad63a5573d5d94.flac
+real recordings,chopin-frederic|nocturne|op55n2,"Chopin, Frederic",Chopin - Nocturne-op-55-no-2,unknown,nocturne,nocturne,0.000,0.000,0.999,0.001,audio/real/266e5e4e6750c83315eb.flac
+real recordings,chopin-frederic|nocturne|op48n1,"Chopin, Frederic",Chopin Nocturne in C minor Op. 48 no. 1 Luke Faulkner,unknown,nocturne,nocturne,0.010,0.019,0.963,0.007,audio/real/5b26f6299b4b96ca55b9.flac
+real recordings,chopin-frederic|nocturne|op32n1,"Chopin, Frederic",Chopin - Nocturne in B Op-32 No-1 (Piano Performance by eldüendesüarez),piano,nocturne,nocturne,0.011,0.003,0.630,0.356,audio/real/bd11ec6330f27369ee63.flac
+real recordings,chopin-frederic|nocturne|op9n2,"Chopin, Frederic",Chopin - Nocturne in E-flat Op-9 No-2 (Piano Performance by eldüendesüarez),piano,nocturne,nocturne,0.004,0.016,0.584,0.397,audio/real/ae9d9bd6f052003fe54c.flac
+real recordings,chopin-frederic|nocturne|op32n2,"Chopin, Frederic",Nocturne Op. 32 no. 2 in A flat major,unknown,nocturne,nocturne,0.006,0.000,0.817,0.177,audio/real/e203bebae32dc374055d.flac
+real recordings,chopin-frederic|nocturne|op27n1,"Chopin, Frederic",Chopin Nocturne Op.27 No.1,unknown,nocturne,nocturne,0.000,0.001,0.999,0.000,audio/real/b7eb22ad1accbfcf7a03.flac
+real recordings,chopin-frederic|nocturne|op55n1,"Chopin, Frederic",Chopin - Nocturne-op-55-no-1,unknown,nocturne,nocturne,0.208,0.004,0.786,0.002,audio/real/f7d4b96564c8693478bd.flac
+real recordings,chopin-frederic|nocturne|op48n2,"Chopin, Frederic",Chopin Nocturne in F sharp minor Op 48 no 2 Luke Faulkner,unknown,nocturne,nocturne,0.033,0.047,0.912,0.009,audio/real/1715f6106ca02d1c6a9a.flac
+real recordings,chopin-frederic|nocturne|op27n20,"Chopin, Frederic",Gabriele Piccinnu - Chopin - Nocturne Op 27 no.20,unknown,nocturne,nocturne,0.001,0.007,0.990,0.002,audio/real/37e9a9cb78d7d7d37f3b.flac
+real recordings,chopin-frederic|nocturne|b108,"Chopin, Frederic",Chopin Nocturne 21 in C minor Posthumous Diana Hughes,unknown,nocturne,nocturne,0.000,0.000,0.994,0.006,audio/real/754aab112d860abe169d.flac
+real recordings,chopin-frederic|nocturne|op37n2,"Chopin, Frederic",Chopin Nocturne Op 37 no 2 in G major Olga Gurevich,unknown,nocturne,nocturne,0.000,0.000,0.991,0.008,audio/real/d241ce9f4a91449cbbac.flac
+real recordings,chopin-frederic|nocturne|op37n1,"Chopin, Frederic",Chopin - Nocturne in G Op-37 No-1 (Piano Performance by eldüendesüarez),piano,nocturne,waltz,0.272,0.098,0.221,0.408,audio/real/b102b051bdd0bb99c9c2.flac
+real recordings,chopin-frederic|nocturne|op27n2,"Chopin, Frederic",Chopin - Nocturne in D-flat Op-27 No-2 (Piano Performance by eldüendesüarez),piano,nocturne,nocturne,0.000,0.001,0.896,0.103,audio/real/6496dd05686ab664dc4d.flac
+real recordings,chopin-frederic|nocturne|op15n2,"Chopin, Frederic",Chopin - Nocturne in F-sharp Op-15 No-2 (Piano Performance by eldüendesüarez),piano,nocturne,nocturne,0.003,0.009,0.801,0.186,audio/real/ecff1b9443c95cd1bf44.flac
+real recordings,chopin-frederic|nocturne|op15n1,"Chopin, Frederic",Chopin - Nocturne Op. 15 no. 1 in F major,unknown,nocturne,nocturne,0.005,0.006,0.966,0.024,audio/real/498e73bb0be8ca77f232.flac
+real recordings,chopin-frederic|nocturne|op9n3,"Chopin, Frederic",Fryderyk Chopin - Nocturne op. 9 n.3 H-dur - Patrizia Prati,unknown,nocturne,nocturne,0.000,0.000,0.999,0.001,audio/real/982d789ea2b1a3a8f8a3.flac
+real recordings,chopin-frederic|nocturne|b49,"Chopin, Frederic",Nocturne B. 49 in C sharp minor 'Lento con gran espressione' (1),unknown,nocturne,nocturne,0.000,0.000,1.000,0.000,audio/real/2749a7c969d741997200.flac
+real recordings,chopin-frederic|nocturne|op15n3,"Chopin, Frederic","Chopin Nocturne in G minor, Op 15 no 3 Olga Gurevich",unknown,nocturne,nocturne,0.005,0.003,0.978,0.014,audio/real/f85b03e0974d1442c4b9.flac
+real recordings,chopin-frederic|nocturne|op37n2,"Chopin, Frederic","Frédéric Chopin — Nocturne in G major, Op. 37 No. 2",unknown,nocturne,nocturne,0.000,0.000,0.999,0.001,audio/real/ccab5f559bac3a15f117.flac
+real recordings,chopin-frederic|nocturne|op27n2,"Chopin, Frederic","Nocturne - Op 27, No 2",unknown,nocturne,waltz,0.000,0.011,0.191,0.798,audio/real/fe4894d8c5cf3ab7acc5.flac
+real recordings,chopin-frederic|nocturne|b49,"Chopin, Frederic",Nocturne B. 49 in C sharp minor 'Lento con gran espressione' (2),unknown,nocturne,nocturne,0.000,0.000,1.000,0.000,audio/real/a7106b8e29faa6620631.flac
+real recordings,chopin-frederic|nocturne|op15n3,"Chopin, Frederic","Nocturne in G minor, Op.15 No.3 [Chopin]",unknown,nocturne,nocturne,0.000,0.000,0.859,0.140,audio/real/91e728f6666522863b05.flac
+real recordings,chopin-frederic|nocturne|op32n1,"Chopin, Frederic","Chopin, Nocturne op 32 no 1",unknown,nocturne,fugue,0.781,0.100,0.102,0.016,audio/real/5b35bd82b6140f460138.flac
+real recordings,chopin-frederic|nocturne|op55n2,"Chopin, Frederic",Nocturne Op. 55 no. 2 in E flat major,unknown,nocturne,nocturne,0.000,0.000,0.998,0.002,audio/real/90580483e231bb979da1.flac
+real recordings,chopin-frederic|nocturne|op9n2,"Chopin, Frederic",Nocturne op. 9.2 (Chopin),piano,nocturne,march,0.000,0.530,0.053,0.417,audio/real/ddc695091b011fd11bb7.flac
+real recordings,chopin-frederic|nocturne|b108,"Chopin, Frederic",Nocturne B. 108 in C minor,unknown,nocturne,nocturne,0.000,0.000,0.996,0.003,audio/real/c8550bbb8c025c044605.flac
+real recordings,chopin-frederic|nocturne|op9n3,"Chopin, Frederic","Chopin - Nocturne No. 3 in B major, Op. 9 No. 3 (Xuan He)",unknown,nocturne,nocturne,0.000,0.000,0.995,0.005,audio/real/c7a72a1cc763713effa7.flac
+real recordings,chopin-frederic|nocturne|op62n1,"Chopin, Frederic","Chopin - Nocturne No. 17 in B major, Op. 62 No. 1 (Olga Gurevich)",unknown,nocturne,nocturne,0.000,0.000,0.990,0.010,audio/real/26c70aea020e0982f49a.flac
+real recordings,chopin-frederic|nocturne|op37n1,"Chopin, Frederic",Chopin- Nocturne op. 37 no. 1,unknown,nocturne,nocturne,0.125,0.218,0.643,0.014,audio/real/313cc08fce377751716c.flac
+real recordings,chopin-frederic|nocturne|op15n2,"Chopin, Frederic",Chopin - Nocturne Op. 15 no. 2 in F sharp major,unknown,nocturne,nocturne,0.000,0.000,1.000,0.000,audio/real/09aab22408136fb9411d.flac
+real recordings,chopin-frederic|nocturne|op27n1,"Chopin, Frederic",Nocturne Op. 27 no. 1 in C sharp minor,unknown,nocturne,nocturne,0.000,0.001,0.920,0.078,audio/real/087ea5b72242b322ae36.flac
+real recordings,chopin-frederic|nocturne|op55n1,"Chopin, Frederic",Nocturne Op. 55 no. 1 in F minor,unknown,nocturne,nocturne,0.439,0.019,0.530,0.012,audio/real/24778bc0e4eacae7e87a.flac
+real recordings,chopin-frederic|nocturne|op15n1,"Chopin, Frederic",Nocturne Op. 15 no. 1 In F major,unknown,nocturne,nocturne,0.010,0.009,0.877,0.104,audio/real/49a3275473993cb32abf.flac
+real recordings,chopin-frederic|nocturne|op62n2,"Chopin, Frederic",Nocturne Op. 62 no. 2 in E major,unknown,nocturne,nocturne,0.005,0.001,0.930,0.064,audio/real/9c2f32e1d46dddb2aebc.flac
+real recordings,wagner-richard|march|wedding-march-richard-edition-player-boy-jason-m-c-han,"Wagner, Richard","Wedding March Richard Wagner Piano Edition Player Piano-Boy Jason M. C., Han",piano,march,nocturne,0.000,0.325,0.607,0.068,audio/real/55b7bd9de813d684939b.flac
+real recordings,mozart-wolfgang-amadeus|march|w-die-zauberflote-13-marsch-der-priester,"Mozart, Wolfgang Amadeus","W. A. Mozart - Die Zauberflöte - 13. Marsch der Priester (Ferenc Fricsay, 1953)",unknown,march,march,0.103,0.420,0.159,0.318,audio/real/c239a6cd948f13acc5ac.flac
+real recordings,berlioz-hector|march|rakoczy-march,"Berlioz, Hector",Rákoczy march,unknown,march,waltz,0.000,0.000,0.000,1.000,audio/real/b9e4a269f42365999365.flac
+real recordings,tchaikovsky-pyotr|march|op31,"Tchaikovsky, Pyotr","Marche Slave, Op. 31 - Pyotr Ilyich Tchaikovsky",unknown,march,march,0.000,0.613,0.387,0.000,audio/real/6d9965a1b612d40b0903.flac
+real recordings,verdi-giuseppe|march|grand-march,"Verdi, Giuseppe",Grand march,band,march,waltz,0.012,0.466,0.000,0.522,audio/real/3a0a0021b727dbc377b8.flac
+real recordings,borodin-alexander|march|pdp-ch-staatskapelle-berlin-leo-blech-prince-igor-alexander-,"Borodin, Alexander",PDP-CH - Staatskapelle Berlin - Leo Blech - Prince Igor - Alexander Borodin - March - Electrola-ej609-62-789,unknown,march,waltz,0.020,0.001,0.001,0.978,audio/real/818a1c09aea1c3ef3867.flac
+real recordings,sousa-john-philip|march|liberty-bell-march,"Sousa, John Philip",Liberty Bell march,band,march,waltz,0.015,0.307,0.000,0.679,audio/real/3ad4522380af0ba01ffe.flac
+real recordings,mussorgsky-modest|march|modest-pictures-at-exhibition-vii-limoges-le-marche-allegret,"Mussorgsky, Modest","Modest Mussorgsky - pictures at an exhibition - vii. limoges. le marche - allegretto vivo, sempre scherzando",unknown,march,march,0.185,0.320,0.271,0.224,audio/real/aba01bda16f3de0e264d.flac
+real recordings,ganne-louis|march|father-victory-march,"Ganne, Louis",Father of victory march,band,march,waltz,0.016,0.180,0.000,0.804,audio/real/86f0b8b47f18e2596d6d.flac
+real recordings,gottschalk-louis-moreau|march|l-f-97-fiesta-march,"Gottschalk, Louis Moreau",L. F. Gottschalk - '97 Fiesta March (1897),piano,march,waltz,0.008,0.442,0.081,0.469,audio/real/2ca1dab3e8b4618a05f6.flac
+real recordings,meyerbeer-giacomo|march|le-prophete-marche-marche-propheta-marcha-de-corsacao,"Meyerbeer, Giacomo","Le prophète marche : Marche, Propheta : Marcha de Corsacao",band,march,waltz,0.001,0.362,0.000,0.637,audio/real/542c589a027164d7f92b.flac
+real recordings,sullivan-arthur|march|march-religioso,"Sullivan, Arthur",March religioso,band,march,march,0.006,0.993,0.000,0.000,audio/real/cb1ca2f084570bb1c82e.flac
+real recordings,prokofiev-sergei|march|op99,"Prokofiev, Sergei","PROKOFIEV March, Opus 99 - ""The President's Own"" U.S. Marine Band",band,march,march,0.018,0.934,0.048,0.000,audio/real/38c612e70b1cfa4bf92c.flac
+real recordings,fahrbach-philipp|march|standard-bearer-march,"Fahrbach, Philipp",Standard-bearer march,band,march,march,0.002,0.927,0.000,0.070,audio/real/ab3ba54333498433bc8a.flac
+real recordings,handel-george-frideric|march|dead-march,"Handel, George Frideric",Dead march,band,march,march,0.000,0.906,0.000,0.094,audio/real/a507d0dcd412dbd3455f.flac
+real recordings,saint-saens-camille|march|march-h-ro-que,"Saint-Saens, Camille",March h�ro�que,band,march,march,0.039,0.941,0.000,0.020,audio/real/43ae21624cf0e7344d55.flac
+real recordings,bizet-georges|march|march-smugglers,"Bizet, Georges",March of the smugglers,orchestra,march,waltz,0.003,0.439,0.001,0.557,audio/real/5a2155034d5ef7aa609d.flac
+real recordings,suppe-franz-von|march|devil-s-march,"Suppe, Franz von",Devil's march,band,march,march,0.111,0.578,0.000,0.311,audio/real/db0a5ea145e3749bdbd0.flac
+real recordings,gounod-charles|march|soldiers-chorus,"Gounod, Charles",Soldiers' chorus (March),band,march,march,0.001,0.966,0.000,0.033,audio/real/8f1940cb956606f28ff7.flac
+real recordings,weber-carl-maria-von|march|john-c-st-louis-world-s-fair-march,"Weber, Carl Maria von",John C. Weber - St. Louis World's Fair March (1903),piano,march,march,0.000,0.993,0.000,0.007,audio/real/9420038ac7e4d5b50d72.flac
+real recordings,strauss-johann|march|persian-march,"Strauss, Johann",Persian march,band,march,march,0.002,0.998,0.000,0.000,audio/real/b67f48874ef5a4202bf9.flac
+real recordings,chabrier-emmanuel|march|emmanuel-joyeuse-marche,"Chabrier, Emmanuel",Emmanuel Chabrier - Joyeuse marche,orchestra,march,march,0.014,0.873,0.022,0.090,audio/real/16540dabdf6537eb84e0.flac
+real recordings,beethoven-ludwig-van|march|ludwig-van-turkish-march,"Beethoven, Ludwig van",Ludwig van Beethoven - Turkish March,unknown,march,march,0.070,0.930,0.000,0.000,audio/real/0ad59f6592ba4b12c0d3.flac
+real recordings,schubert-franz|march|marche-militaire,"Schubert, Franz",Marche militaire,unknown,march,waltz,0.000,0.003,0.000,0.997,audio/real/d428b0df96a61d7d697b.flac
+real recordings,fucik-julius|march|florentiner-march,"Fucik, Julius",Florentiner march,band,march,march,0.004,0.995,0.000,0.001,audio/real/6e51b395526ce0c611ed.flac
+real recordings,bach-johann-sebastian|march|d,"Bach, Johann Sebastian","Bach, JS - March in D (Piano Performance by eldüendesüarez)",piano,march,fugue,0.911,0.001,0.000,0.087,audio/real/573b9a3d0e75e35403c9.flac
+real recordings,elgar-edward|march|pomp-circumstance-march,"Elgar, Edward",Pomp and circumstance march,band,march,waltz,0.001,0.000,0.000,0.999,audio/real/6cf15a34411b05c277e4.flac
+real recordings,massenet-jules|march|march-from-scenes-pittoresques,"Massenet, Jules",March from Scènes pittoresques,band,march,waltz,0.001,0.252,0.000,0.747,audio/real/5161b789d39a9c2f6782.flac
+real recordings,joplin-scott|march|scott-great-crush-collision-march,"Joplin, Scott",Scott Joplin - The Great Crush Collision March (1896),piano,march,march,0.031,0.951,0.000,0.018,audio/real/e2938bf67fab91ac7651.flac
+real recordings,teike-carl|march|old-comrades-march-comrades-marche-antiguos-companeros-march,"Teike, Carl","Old comrades march, Comrades marche, Antiguos compañeros : Marcha",band,march,waltz,0.027,0.021,0.000,0.951,audio/real/4469191f1b424fa70f70.flac
+real recordings,grieg-edvard|march|march-dwarfs,"Grieg, Edvard",March of the dwarfs,band,march,waltz,0.115,0.000,0.002,0.884,audio/real/d43a4be8ffc2f12239a6.flac
+real recordings,mendelssohn-felix|march|op61,"Mendelssohn, Felix",A Midsummer Night's Dream Op. 61 Wedding March (Mendelssohn) European Archive,unknown,march,march,0.001,0.967,0.013,0.020,audio/real/5c11798a3ea85d3dd6d3.flac
+real recordings,wagner-richard|march|nibelungen-march,"Wagner, Richard",Nibelungen march,band,march,march,0.000,0.996,0.000,0.004,audio/real/0de151c44dd1402f662c.flac
+real recordings,mozart-wolfgang-amadeus|march|turkish-march,"Mozart, Wolfgang Amadeus",Turkish march,band,march,waltz,0.000,0.000,0.000,1.000,audio/real/d3edfe5c9202a315c8ee.flac
+real recordings,berlioz-hector|march|marche-hongroise-u-s-marine-band,"Berlioz, Hector",Marche Hongroise - U.S. Marine Band,band,march,march,0.007,0.989,0.004,0.000,audio/real/b18dd1e87b8beef71525.flac
+real recordings,sousa-john-philip|march|recognition-march,"Sousa, John Philip",10: Recognition March (circa 1880),unknown,march,march,0.089,0.910,0.000,0.000,audio/real/327153bf173aa725a726.flac
+real recordings,mussorgsky-modest|march|skidmore-college-orchestra-11-vii-limoges-le-march-allegrett,"Mussorgsky, Modest",Skidmore College Orchestra - 11 - VII Limoges Le March Allegretto vivo sempre scherzando,orchestra,march,nocturne,0.228,0.111,0.660,0.002,audio/real/b2936b8c1b504f0d37d2.flac
+real recordings,ganne-louis|march|marche-lorraine,"Ganne, Louis",Marche Lorraine,band,march,march,0.010,0.547,0.000,0.443,audio/real/dd709fe5290bcdfd4e77.flac
+real recordings,meyerbeer-giacomo|march|coronation-march,"Meyerbeer, Giacomo",Coronation march,band,march,waltz,0.002,0.342,0.000,0.656,audio/real/c3759d8e6f53bb4bb174.flac
+real recordings,suppe-franz-von|march|boccaccio-march,"Suppe, Franz von",Boccaccio march,band,march,march,0.264,0.709,0.000,0.027,audio/real/e945062035b5b2e2db01.flac
+real recordings,chopin-frederic|fugue|b144,"Chopin, Frederic",Fugue in A minor B. 144,unknown,fugue,fugue,0.986,0.001,0.003,0.011,audio/real/5412e5b0097bf684b98b.flac
+real recordings,bach-johann-sebastian|fugue|bwv859,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 28 Fugue No. 14 in F-sharp minor, BWV 859",unknown,fugue,fugue,0.750,0.003,0.179,0.068,audio/real/75f8af9c6e1a07c0856c.flac
+real recordings,pachelbel-johann|fugue|no5,"Pachelbel, Johann","Pachelbel - Magnificat fugue primi toni No. 5 (D minor), P. 261 (Piano)",piano,fugue,waltz,0.337,0.014,0.304,0.345,audio/real/67e479c7e4f573dd9491.flac
+real recordings,ravel-maurice|fugue|maurice-le-tombeau-de-couperin-ii-fugue,"Ravel, Maurice",Maurice Ravel - Le Tombeau de Couperin. II. Fugue,unknown,fugue,nocturne,0.481,0.009,0.503,0.007,audio/real/ca43a98b93d0fa3c5173.flac
+real recordings,reicha-anton|fugue|fugue-33,"Reicha, Anton",Reicha - fugue 33,unknown,fugue,fugue,0.915,0.074,0.000,0.010,audio/real/fab6a6f9344d58aadea0.flac
+real recordings,mozart-wolfgang-amadeus|fugue|cminor,"Mozart, Wolfgang Amadeus",W. A. Mozart - Fugue in c minor for two pianos K 426,unknown,fugue,fugue,0.750,0.002,0.008,0.240,audio/real/1ed54353e83a5317289f.flac
+real recordings,beethoven-ludwig-van|fugue|op110,"Beethoven, Ludwig van","Klaviersonate Nr. 31 As-Dur op. 110 - IV. Fuga Allegro, ma non troppo",piano,fugue,nocturne,0.000,0.001,0.999,0.000,audio/real/bffaacf52f8dbadb8343.flac
+real recordings,bach-johann-sebastian|fugue|d-fugue-expressnist-edition,"Bach, Johann Sebastian",D minor Fugue Bach - Expressnist edition,unknown,fugue,fugue,0.985,0.003,0.009,0.003,audio/real/4c151549741df1e0ef81.flac
+real recordings,pachelbel-johann|fugue|c-fugue,"Pachelbel, Johann",Pachelbel C major fugue,organ,fugue,waltz,0.396,0.043,0.082,0.479,audio/real/9ae3913386670597f3c0.flac
+real recordings,reicha-anton|fugue|anton-fugue-20,"Reicha, Anton",Anton Reicha Fugue 20,unknown,fugue,waltz,0.220,0.118,0.000,0.661,audio/real/5c6a43d7772c567bea85.flac
+real recordings,bach-johann-sebastian|fugue|bwv577,"Bach, Johann Sebastian",J.S. Bach Gigue Fugue in G Major BWV 577 Jan Liebermann Justinuskirche Frankfurt-Höchst,organ,fugue,nocturne,0.100,0.399,0.495,0.006,audio/real/bbefe99bbf217e1f7e47.flac
+real recordings,pachelbel-johann|fugue|no3,"Pachelbel, Johann","Pachelbel - Magnificat fugue primi toni No. 3 (D minor), P. 259 (Piano)",piano,fugue,waltz,0.469,0.000,0.035,0.496,audio/real/f57d3e6f5a6aadafee84.flac
+real recordings,reicha-anton|fugue|fugue-12,"Reicha, Anton",Reicha - fugue 12,unknown,fugue,march,0.001,0.987,0.000,0.012,audio/real/cf93012bac6160c891b3.flac
+real recordings,bach-johann-sebastian|fugue|bwv863,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 36 Fugue No. 18 in G-sharp minor, BWV 863",unknown,fugue,fugue,0.761,0.002,0.043,0.194,audio/real/2ce696e33ab1fcaf1fd7.flac
+real recordings,pachelbel-johann|fugue|no4,"Pachelbel, Johann","Pachelbel - Magnificat fugue primi toni No. 4 (D minor), P. 260 (Piano)",piano,fugue,fugue,0.820,0.001,0.174,0.005,audio/real/6aa5f795e0420ac44272.flac
+real recordings,reicha-anton|fugue|fugue-34,"Reicha, Anton",Reicha - fugue 34,unknown,fugue,waltz,0.003,0.010,0.007,0.981,audio/real/2de74701c681d7b27386.flac
+real recordings,bach-johann-sebastian|fugue|bwv848,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 06 Fugue No. 3 in C-sharp major, BWV 848",unknown,fugue,fugue,0.935,0.000,0.006,0.058,audio/real/36d52aee98d8732d445a.flac
+real recordings,pachelbel-johann|fugue|cmajor,"Pachelbel, Johann","Pachelbel - Fugue in C major (no. 4, bicinium), P. 143 (Guitar)",guitar,fugue,nocturne,0.059,0.001,0.940,0.000,audio/real/624a04d3a8a52e3c3071.flac
+real recordings,reicha-anton|fugue|fugue-28,"Reicha, Anton",Reicha - fugue 28,unknown,fugue,fugue,0.502,0.034,0.001,0.464,audio/real/1f6be6a42e95be7921ff.flac
+real recordings,bach-johann-sebastian|fugue|bwv578,"Bach, Johann Sebastian","Bach's ""Little"" Fugue in G Minor, BWV 578 - Huffman Winds - United States Air Force Band of Flight",band,fugue,nocturne,0.051,0.000,0.658,0.291,audio/real/515d5e8665b3b9381b43.flac
+real recordings,pachelbel-johann|fugue|johann-magnificat-octavi-toni-fugue-13,"Pachelbel, Johann",Johann Pachelbel - Magnificat Octavi Toni Fugue 13,organ,fugue,fugue,0.973,0.000,0.020,0.007,audio/real/a106c1776cb76a6e1cea.flac
+real recordings,reicha-anton|fugue|fugue-6,"Reicha, Anton",Reicha - fugue 6,unknown,fugue,fugue,0.376,0.303,0.298,0.023,audio/real/dc0d35ec70ce33b707b9.flac
+real recordings,bach-johann-sebastian|fugue|bwv862,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 34 Fugue No. 17 in A-flat major, BWV 862",unknown,fugue,fugue,0.999,0.000,0.000,0.001,audio/real/b2b669270055169a3f96.flac
+real recordings,pachelbel-johann|fugue|no1,"Pachelbel, Johann","Pachelbel Fugue on the Magnificat Primi Toni, No. 1",harpsichord,fugue,nocturne,0.000,0.280,0.708,0.013,audio/real/69bfdf62497f8b43e3eb.flac
+real recordings,reicha-anton|fugue|fugue-8,"Reicha, Anton",Reicha - fugue 8,unknown,fugue,fugue,0.736,0.209,0.027,0.029,audio/real/11d51635c70b5b5ef33d.flac
+real recordings,bach-johann-sebastian|fugue|bwv869,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 48 Fugue No. 24 in B minor, BWV 869",unknown,fugue,fugue,0.996,0.001,0.003,0.000,audio/real/850a43304e4edf840679.flac
+real recordings,reicha-anton|fugue|fugue-30,"Reicha, Anton",Reicha - fugue 30,unknown,fugue,fugue,0.505,0.396,0.043,0.056,audio/real/5244e9f946f0fb590894.flac
+real recordings,bach-johann-sebastian|fugue|zygmunt-bielawski-fuga-c-moll,"Bach, Johann Sebastian",Zygmunt Bielawski - Bach-Fuga-C-Moll,unknown,fugue,fugue,0.369,0.001,0.304,0.327,audio/real/627bfa0c4534c9402c4e.flac
+real recordings,reicha-anton|fugue|fugue-4,"Reicha, Anton",Reicha - fugue 4,unknown,fugue,waltz,0.162,0.018,0.001,0.819,audio/real/4d1c863c4e7bfb72de1d.flac
+real recordings,bach-johann-sebastian|fugue|bwv864,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 38 Fugue No. 19 in A major, BWV 864",unknown,fugue,waltz,0.384,0.002,0.154,0.460,audio/real/164e4e3dafed64305ea4.flac
+real recordings,reicha-anton|fugue|fugue-35,"Reicha, Anton",Reicha - fugue 35,unknown,fugue,waltz,0.089,0.019,0.000,0.892,audio/real/8b32af94b6489935f7c3.flac
+real recordings,bach-johann-sebastian|fugue|bwv542,"Bach, Johann Sebastian",Johann Sebastian Bach BWV 542 fugue Reinhardtsgrimma Herbert Collum,organ,fugue,waltz,0.002,0.373,0.155,0.470,audio/real/cafaf0ce38fdbb142eeb.flac
+real recordings,reicha-anton|fugue|fugue-25,"Reicha, Anton",Reicha - fugue 25,unknown,fugue,fugue,0.635,0.265,0.001,0.099,audio/real/62ca413bcf21a9ded380.flac
+real recordings,bach-johann-sebastian|fugue|bwv846,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 02 Fugue No. 1 in C major, BWV 846",unknown,fugue,fugue,0.903,0.000,0.057,0.040,audio/real/fa07794d273b7a75e587.flac
+real recordings,reicha-anton|fugue|fugue-22,"Reicha, Anton",Reicha - fugue 22,unknown,fugue,fugue,0.483,0.431,0.000,0.085,audio/real/dd48d81cc5d1c2e78a57.flac
+real recordings,bach-johann-sebastian|fugue|bwv858,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 26 Fugue No. 13 in F-sharp major, BWV 858",unknown,fugue,fugue,0.989,0.000,0.002,0.009,audio/real/ea23df4fc0440b7362fa.flac
+real recordings,reicha-anton|fugue|fugue-18,"Reicha, Anton",Reicha - fugue 18,unknown,fugue,fugue,0.468,0.459,0.011,0.063,audio/real/ac4bc1bbf067f27e5713.flac
+real recordings,bach-johann-sebastian|fugue|bwv851,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 12 Fugue No. 6 in D minor, BWV 851",unknown,fugue,fugue,0.992,0.000,0.002,0.005,audio/real/c7ad7b380e84d613de79.flac
+real recordings,reicha-anton|fugue|fugue-13,"Reicha, Anton",Reicha - fugue 13,unknown,fugue,waltz,0.163,0.033,0.001,0.803,audio/real/86eff18d4fd9fc55ed82.flac
+real recordings,bach-johann-sebastian|fugue|bwv861,"Bach, Johann Sebastian","Kimiko Ishizaka - Bach - Well-Tempered Clavier, Book 1 - 32 Fugue No. 16 in G minor, BWV 861",unknown,fugue,fugue,0.874,0.001,0.001,0.124,audio/real/545be9ff4f717058c3e2.flac

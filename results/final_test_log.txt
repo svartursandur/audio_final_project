@@ -1,0 +1,83 @@
+Computing AST clips for 218 test pieces (saved as it goes)...
+  10/218
+  20/218
+  30/218
+  40/218
+  50/218
+  60/218
+  70/218
+  80/218
+  90/218
+  100/218
+  110/218
+  120/218
+  130/218
+  140/218
+  150/218
+  160/218
+  170/218
+  180/218
+  190/218
+  200/218
+  210/218
+  218/218
+
+Baselines, refitted (their validation tuning is printed below):
+Tuning on validation:
+  mean, C=0.001                                accuracy 0.393   balanced 0.368   macro F1 0.310
+  mean, C=0.01                                 accuracy 0.411   balanced 0.495   macro F1 0.385
+  mean, C=0.1                                  accuracy 0.500   balanced 0.566   macro F1 0.475
+  mean, C=1.0                                  accuracy 0.500   balanced 0.547   macro F1 0.472
+  mean, C=10.0                                 accuracy 0.518   balanced 0.575   macro F1 0.501
+  mean, C=100.0                                accuracy 0.554   balanced 0.592   macro F1 0.533
+  mean, C=1000.0                               accuracy 0.554   balanced 0.592   macro F1 0.533
+  mean+std, C=0.001                            accuracy 0.429   balanced 0.432   macro F1 0.390
+  mean+std, C=0.01                             accuracy 0.446   balanced 0.481   macro F1 0.427
+  mean+std, C=0.1                              accuracy 0.554   balanced 0.610   macro F1 0.533
+  mean+std, C=1.0                              accuracy 0.643   balanced 0.708   macro F1 0.621
+  mean+std, C=10.0                             accuracy 0.679   balanced 0.725   macro F1 0.656
+  mean+std, C=100.0                            accuracy 0.679   balanced 0.716   macro F1 0.642
+  mean+std, C=1000.0                           accuracy 0.696   balanced 0.725   macro F1 0.657
+Best: mean+std, C=1000.0
+
+Tuning on validation:
+  C=1e-05                                      accuracy 0.482   balanced 0.553   macro F1 0.459
+  C=0.0001                                     accuracy 0.536   balanced 0.565   macro F1 0.497
+  C=0.001                                      accuracy 0.607   balanced 0.655   macro F1 0.586
+  C=0.01                                       accuracy 0.643   balanced 0.653   macro F1 0.611
+  C=0.1                                        accuracy 0.625   balanced 0.613   macro F1 0.593
+  C=1.0                                        accuracy 0.625   balanced 0.572   macro F1 0.570
+  C=10.0                                       accuracy 0.661   balanced 0.630   macro F1 0.629
+  C=100.0                                      accuracy 0.589   balanced 0.586   macro F1 0.550
+  C=1000.0                                     accuracy 0.554   balanced 0.569   macro F1 0.523
+Best: C=10.0
+
+
+===== random test split: 58 pieces =====
+  majority class                               accuracy 0.500   balanced 0.250   macro F1 0.167
+  MFCC logistic regression (C=1000.0)          accuracy 0.414   balanced 0.401   macro F1 0.378
+  frozen AST alone (C=10.0)                    accuracy 0.603   balanced 0.578   macro F1 0.574
+  VERSION 3 (final model)                      accuracy 0.707   balanced 0.715   macro F1 0.709
+    macro F1 95% range: 0.585 to 0.813
+    true / predicted       waltz  nocturne     march     fugue
+    waltz                     22         5         2         0
+    nocturne                   3         9         3         0
+    march                      2         2         4         0
+    fugue                      0         0         0         6
+    F1 per form: waltz 0.79, nocturne 0.58, march 0.47, fugue 1.00
+
+===== real recordings: 160 pieces =====
+  majority class                               accuracy 0.250   balanced 0.250   macro F1 0.100
+  MFCC logistic regression (C=1000.0)          accuracy 0.338   balanced 0.337   macro F1 0.344
+  frozen AST alone (C=10.0)                    accuracy 0.531   balanced 0.531   macro F1 0.485
+  VERSION 3 (final model)                      accuracy 0.688   balanced 0.688   macro F1 0.687
+    macro F1 95% range: 0.613 to 0.754
+    true / predicted       waltz  nocturne     march     fugue
+    waltz                     29         4         6         1
+    nocturne                   2        36         1         1
+    march                     15         2        22         1
+    fugue                     10         6         1        23
+    F1 per form: waltz 0.60, nocturne 0.82, march 0.63, fugue 0.70
+    Right by instrumentation: unknown 65/84, band 20/34, piano 13/22, orchestra 11/14, organ 1/4, guitar 0/1, harpsichord 0/1
+
+Every prediction saved to results/final_predictions.csv

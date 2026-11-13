@@ -1,0 +1,91 @@
+
+GiantMIDI curated zip
+class       works  composers  top share  top composer                  viable
+waltz         194        126        5%  Godard, Benjamin              YES
+mazurka        51         33       12%  Balakirev, Mily               YES
+polonaise      28         18       21%  Chopin, Frederic              no
+nocturne       99         73        8%  Faure, Gabriel                YES
+march          52         35       12%  Liszt, Franz                  YES
+polka          46         32       13%  Kleber, Henry                 YES
+fugue          37         24       14%  Mozart, Wolfgang Amadeus      YES
+
+MusicNet
+class       works  composers  top share  top composer                  viable
+waltz           0          0        0%  -                             no
+mazurka         0          0        0%  -                             no
+polonaise       0          0        0%  -                             no
+nocturne        0          0        0%  -                             no
+march           0          0        0%  -                             no
+polka           0          0        0%  -                             no
+fugue          18          1      100%  Bach, Johann Sebastian        no
+
+Wikimedia Commons
+class       works  composers  top share  top composer                  viable
+waltz          39         10       51%  Chopin, Frederic              no
+mazurka        61          3       97%  Chopin, Frederic              no
+polonaise      18          4       83%  Chopin, Frederic              no
+nocturne       24          3       92%  Chopin, Frederic              no
+march          59         19       44%  Sousa, John Philip            no
+polka           5          2       80%  Strauss, Johann               no
+fugue          89          7       43%  Bach, Johann Sebastian        no
+
+Internet Archive
+class       works  composers  top share  top composer                  viable
+waltz          81         19       20%  Chopin, Frederic              YES
+mazurka        56          2       98%  Chopin, Frederic              no
+polonaise      18          4       83%  Chopin, Frederic              no
+nocturne       21          1      100%  Chopin, Frederic              no
+march          85         24       52%  Sousa, John Philip            no
+polka           8          5       38%  Waldteufel, Emile             no
+fugue           5          2       80%  Bach, Johann Sebastian        no
+
+MAESTRO (CC BY-NC-SA: reference only, excluded from combined)
+class       works  composers  top share  top composer                  viable
+waltz           7          4       43%  Liszt, Franz                  no
+mazurka         5          1      100%  Chopin, Frederic              no
+polonaise       4          2       75%  Chopin, Frederic              no
+nocturne       13          1      100%  Chopin, Frederic              no
+march           0          0        0%  -                             no
+polka           1          1      100%  Rachmaninoff, Sergei          no
+fugue           0          0        0%  -                             no
+
+COMBINED, all allowed sources
+class       works  composers  top share  top composer                  viable
+waltz         290        145        7%  Chopin, Frederic              YES
+mazurka       107         35       56%  Chopin, Frederic              no
+polonaise      42         21       38%  Chopin, Frederic              YES
+nocturne      120         75       18%  Chopin, Frederic              YES
+march         188         62       35%  Sousa, John Philip            YES
+polka          59         38       10%  Kleber, Henry                 YES
+fugue         128         28       36%  Bach, Johann Sebastian        YES
+
+COMBINED, without GiantMIDI
+class       works  composers  top share  top composer                  viable
+waltz         102         24       20%  Chopin, Frederic              YES
+mazurka        63          4       95%  Chopin, Frederic              no
+polonaise      22          6       73%  Chopin, Frederic              no
+nocturne       24          3       92%  Chopin, Frederic              no
+march         137         32       48%  Sousa, John Philip            no
+polka          13          6       38%  Strauss, Johann               no
+fugue          93          7       45%  Bach, Johann Sebastian        no
+
+REAL AUDIO ONLY (candidates for the held-out test set)
+class       works  composers  top share  top composer                  viable
+waltz         100         24       20%  Chopin, Frederic              YES
+mazurka        63          4       95%  Chopin, Frederic              no
+polonaise      21          5       76%  Chopin, Frederic              no
+nocturne       24          3       92%  Chopin, Frederic              no
+march         136         32       49%  Sousa, John Philip            no
+polka          13          6       38%  Strauss, Johann               no
+fugue          89          7       46%  Bach, Johann Sebastian        no
+
+Real-audio works also present as MIDI (these must be held out of training):
+  waltz         6 of 100
+  mazurka       7 of 63
+  polonaise     7 of 21
+  nocturne      3 of 24
+  march         2 of 136
+  polka         0 of 13
+  fugue         3 of 89
+
+Flagged rows (needs_review=1, not counted): 251

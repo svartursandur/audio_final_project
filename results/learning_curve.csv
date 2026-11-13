@@ -1,0 +1,5 @@
+fraction,train_pieces,draws,train_mean,train_std,validation_mean,validation_std,unseen_mean,unseen_std
+0.25,66,10,1.0,0.0,0.639,0.101,0.562,0.019
+0.5,131,10,1.0,0.0,0.761,0.046,0.64,0.023
+0.75,194,10,0.997,0.001,0.781,0.046,0.678,0.024
+1.0,260,1,0.994,0.0,0.789,0.0,0.695,0.0

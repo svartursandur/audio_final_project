@@ -1,0 +1,12 @@
+form,predicted,sureness,composer,title,soundfont,file,p_fugue,p_march,p_nocturne,p_waltz
+fugue,waltz,0.76,"Peyer, Johann Baptist","Fuga quarti toni, RW 47",upright_kw,data/audio/midi_render/ad12b5070c32fe0b37a4.flac,0.23,0.0,0.0,0.76
+march,waltz,0.61,"Schubert, Franz","Grande marche héroïque, D.885",salamander_grand,data/audio/midi_render/f0f7789265eaddc4ae6f.flac,0.03,0.36,0.01,0.61
+nocturne,waltz,0.89,"Buonamici, Giuseppe",Nocturne,upright_kw,data/audio/midi_render/fb8cbee9f88a71b588b2.flac,0.01,0.0,0.1,0.89
+nocturne,waltz,0.8,"Mourey, Colette",Nocturne oublié,upright_kw,data/audio/midi_render/b283d1edbff1bc70de49.flac,0.01,0.11,0.08,0.8
+nocturne,waltz,0.62,"Gutmann, Adolf",Nocturne Lyrique,salamander_grand,data/audio/midi_render/d5c39974471a18243b52.flac,0.05,0.04,0.28,0.62
+nocturne,waltz,0.58,"Henselt, Adolf","Nocturne, Op.27",fluidr3_gm,data/audio/midi_render/9b5a6255fe4810339cff.flac,0.29,0.1,0.03,0.58
+nocturne,waltz,0.49,"Simpson, Daniel Leo",Nocturne for Pianoforte,upright_kw,data/audio/midi_render/24feebe8b0fb1fd1cddc.flac,0.0,0.22,0.28,0.49
+nocturne,march,0.4,"Teilman, Christian",Nocturne in G major,fluidr3_gm,data/audio/midi_render/8c35da707ee4cfcbf16a.flac,0.39,0.4,0.03,0.19
+waltz,nocturne,0.64,"Debussy, Claude",Valse romantique,upright_kw,data/audio/midi_render/a536471386fb81533f57.flac,0.0,0.0,0.64,0.36
+waltz,march,0.57,"DeLano, C. S.",Aeolian Waltz,upright_kw,data/audio/midi_render/846b0310d2042852d02b.flac,0.0,0.57,0.01,0.42
+waltz,fugue,0.47,"Mereaux, Jean-Amedee Lefroid de","Grande valse pour piano, Op.46",salamander_grand,data/audio/midi_render/43b7eff7faef5c20a999.flac,0.47,0.04,0.41,0.08

@@ -1,0 +1,88 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] [1mASTModel LOAD REPORT[0m from: MIT/ast-finetuned-audioset-10-10-0.4593
+Key                         | Status     |  | 
+----------------------------+------------+--+-
+classifier.layernorm.bias   | UNEXPECTED |  | 
+classifier.dense.weight     | UNEXPECTED |  | 
+classifier.layernorm.weight | UNEXPECTED |  | 
+classifier.dense.bias       | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+0 cached, 349 to compute
+cached 25/349
+cached 50/349
+cached 75/349
+cached 100/349
+cached 125/349
+cached 150/349
+cached 175/349
+cached 200/349
+cached 225/349
+cached 250/349
+cached 275/349
+cached 300/349
+cached 325/349
+
+Seed 1000. Choosing the number of training rounds on validation:
+  epoch 1: training loss 1.544, validation macro F1 0.335 (2 s)
+  epoch 2: training loss 1.401, validation macro F1 0.344 (1 s)
+  epoch 3: training loss 1.393, validation macro F1 0.370 (1 s)
+  epoch 4: training loss 1.301, validation macro F1 0.438 (1 s)
+  epoch 5: training loss 1.250, validation macro F1 0.374 (1 s)
+  epoch 6: training loss 1.202, validation macro F1 0.504 (1 s)
+  epoch 7: training loss 1.168, validation macro F1 0.466 (2 s)
+  epoch 8: training loss 1.184, validation macro F1 0.468 (2 s)
+  epoch 9: training loss 1.160, validation macro F1 0.499 (1 s)
+  no improvement for 3 rounds, stopping
+Best: 6 rounds, validation macro F1 0.504
+Unseen composers:
+  fold 0: macro F1 0.394
+  fold 1: macro F1 0.563
+  fold 2: macro F1 0.613
+  fold 3: macro F1 0.460
+  fold 4: macro F1 0.408
+
+Seed 2000. Choosing the number of training rounds on validation:
+  epoch 1: training loss 1.497, validation macro F1 0.297 (2 s)
+  epoch 2: training loss 1.343, validation macro F1 0.425 (2 s)
+  epoch 3: training loss 1.325, validation macro F1 0.499 (2 s)
+  epoch 4: training loss 1.239, validation macro F1 0.412 (2 s)
+  epoch 5: training loss 1.202, validation macro F1 0.407 (2 s)
+  epoch 6: training loss 1.161, validation macro F1 0.475 (1 s)
+  no improvement for 3 rounds, stopping
+Best: 3 rounds, validation macro F1 0.499
+Unseen composers:
+  fold 0: macro F1 0.328
+  fold 1: macro F1 0.438
+  fold 2: macro F1 0.667
+  fold 3: macro F1 0.255
+  fold 4: macro F1 0.488
+
+Seed 3000. Choosing the number of training rounds on validation:
+  epoch 1: training loss 1.548, validation macro F1 0.333 (2 s)
+  epoch 2: training loss 1.358, validation macro F1 0.371 (2 s)
+  epoch 3: training loss 1.305, validation macro F1 0.388 (2 s)
+  epoch 4: training loss 1.260, validation macro F1 0.430 (2 s)
+  epoch 5: training loss 1.188, validation macro F1 0.377 (2 s)
+  epoch 6: training loss 1.218, validation macro F1 0.464 (2 s)
+  epoch 7: training loss 1.167, validation macro F1 0.450 (2 s)
+  epoch 8: training loss 1.048, validation macro F1 0.466 (2 s)
+  epoch 9: training loss 1.169, validation macro F1 0.478 (2 s)
+  epoch 10: training loss 1.123, validation macro F1 0.496 (2 s)
+  epoch 11: training loss 1.083, validation macro F1 0.502 (2 s)
+  epoch 12: training loss 1.115, validation macro F1 0.501 (2 s)
+Best: 11 rounds, validation macro F1 0.502
+Unseen composers:
+  fold 0: macro F1 0.526
+  fold 1: macro F1 0.565
+  fold 2: macro F1 0.611
+  fold 3: macro F1 0.418
+  fold 4: macro F1 0.457
+
+Fine-tuning over 3 seeds:
+  validation        macro F1 0.502 ± 0.002
+  unseen composers  macro F1 0.479 ± 0.033
+  per fold, averaged over seeds: [0.416 0.522 0.63  0.378 0.451]
+Frozen AST (C=10.0), same pieces: validation 0.619, unseen composers 0.596
+Fine-tuning minus frozen AST, per fold: [-0.106 -0.113  0.09  -0.312 -0.142], mean -0.117, better in 1 of 5 folds

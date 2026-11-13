@@ -1,0 +1,31 @@
+{
+ "giantmidi": {
+  "no_form_keyword": 6407,
+  "paired_fugue": 86,
+  "non_classical_title": 3
+ },
+ "musicnet": {
+  "no_form_keyword": 310,
+  "paired_fugue": 1
+ },
+ "commons": {
+  "no_known_composer": 1214,
+  "no_form_keyword": 348,
+  "license_not_allowed": 9,
+  "paired_fugue": 59,
+  "non_classical_title": 6,
+  "canon_not_fugue": 8
+ },
+ "ia": {
+  "no_known_composer": 36,
+  "no_form_keyword": 586,
+  "no_audio_files": 11,
+  "paired_fugue": 14,
+  "license_not_allowed": 104,
+  "non_classical_title": 2
+ },
+ "maestro": {
+  "no_form_keyword": 1077,
+  "paired_fugue": 127
+ }
+}

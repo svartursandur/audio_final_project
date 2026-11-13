@@ -1,0 +1,21 @@
+# Large generated or third-party dataset files
+data/audio/
+data/tmp_render/
+data/soundfonts/*.sf2
+data/raw/giantmidi/*.zip
+data/features/ast_before_last_layer/
+data/midi/
+ATEPP-1.1.zip
+drafts
+
+# Python
+__pycache__/
+.venv/
+
+# Downloaded source metadata and API responses (recreated by the fetch scripts)
+data/cache/
+data/raw/
+
+# Leftovers from the first AST test
+train.py
+sample.wav

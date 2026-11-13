@@ -1,0 +1,8 @@
+set,low,high,pieces,average_sureness,right
+unseen composers,0.25,0.4,4,0.356,0.0
+unseen composers,0.4,0.6,70,0.525,0.514
+unseen composers,0.6,0.8,100,0.693,0.71
+unseen composers,0.8,1.0,144,0.931,0.889
+validation,0.4,0.6,11,0.539,0.545
+validation,0.6,0.8,18,0.707,0.722
+validation,0.8,1.0,27,0.928,0.889

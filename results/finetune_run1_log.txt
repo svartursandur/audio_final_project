@@ -1,0 +1,23 @@
+First partial fine-tuning run of AST (scripts/finetune_ast.py), 2026-11-09.
+
+What was trained: AST's last transformer layer plus a new 4-class linear classifier.
+Settings: batch size 8, last-layer learning rate 1e-5, classifier learning rate 1e-3,
+weight decay 0.01, dropout 0.3, up to 8 epochs, chosen on the validation split.
+The run was stopped by hand after 3 of the 5 unseen-composer folds, so folds 3 and 4
+have no result. Trained weights were not saved.
+
+Choosing the number of training rounds on validation:
+  epoch 1: training loss 1.528, validation macro F1 0.309
+  epoch 2: training loss 1.241, validation macro F1 0.513
+  epoch 3: training loss 1.203, validation macro F1 0.512
+  epoch 4: training loss 1.162, validation macro F1 0.569
+  epoch 5: training loss 1.164, validation macro F1 0.357
+  epoch 6: training loss 1.259, validation macro F1 0.366
+  epoch 7: training loss 1.106, validation macro F1 0.553
+  epoch 8: training loss 0.950, validation macro F1 0.501
+Best: 4 rounds, validation macro F1 0.569
+
+Unseen composers:
+  fold 0: macro F1 0.455
+  fold 1: macro F1 0.344
+  fold 2: macro F1 0.389

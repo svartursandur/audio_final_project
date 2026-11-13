@@ -51,7 +51,7 @@ Nocturne has only 24 distinct works with open-licensed recordings. Reaching 40 t
 | `audio/midi_render/`, `audio/real/` | Processed audio |
 | `audio/real_original/` | Real recordings as downloaded |
 | `midi/` | The MIDI files that were rendered |
-| `raw/`, `cache/` | Source metadata and API responses |
+| `raw/`, `cache/` | Source metadata and API responses (not in the repository; recreated by the fetch scripts) |
 | `soundfonts/soundfonts.csv` | Each soundfont, its license and checksum |
 
 ## Sources and attribution

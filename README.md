@@ -27,6 +27,7 @@ requirements.txt  Python packages
 - the audio (about 5 GB)
 - the soundfonts
 - the GiantMIDI and ATEPP downloads, which need you to agree to their terms yourself
+- the downloaded source metadata (`data/raw/`) and saved API responses (`data/cache/`), which the fetch scripts recreate
 
 The steps below recreate them.
 
@@ -79,7 +80,7 @@ The features in `data/features/` are enough to retrain every classifier and reru
 
 1. **GiantMIDI-Piano** (CC BY 4.0).
    - Agree to the disclaimer at <https://github.com/bytedance/GiantMIDI-Piano>.
-   - Download `midis_v1.2.zip` and `surname_checked_midis_v1.2.zip` into `data/raw/giantmidi/`.
+   - Download `midis_v1.2.zip` and `surname_checked_midis_v1.2.zip` into `data/raw/giantmidi/` (create the folder).
 2. **ATEPP v1.1** (CC BY 4.0).
    - Agree to the terms at <https://github.com/BetsyTang/ATEPP>.
    - Download `ATEPP-1.1.zip` into the project root.
